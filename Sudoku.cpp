@@ -208,4 +208,5 @@ int main()
 	while (koniec)
 		pozbycie_wstep(N, plansza_liczb, plansza_prawd);
 	wypisz(N, plansza_liczb, plansza_prawd);
+	return 0;
 }
